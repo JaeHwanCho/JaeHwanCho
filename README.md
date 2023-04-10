@@ -5,6 +5,7 @@
 
 
 ### Backend Developer
+[ortfolio](https://potent-grey-bdd.notion.site/e432478fc8c848c89562d21d0ab72291)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
